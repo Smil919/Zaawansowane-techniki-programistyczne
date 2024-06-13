@@ -1,0 +1,10 @@
+C:\Users\smily\source\repos\Calaulator\Calaulator\bin\Debug\Calaulator.exe.config
+C:\Users\smily\source\repos\Calaulator\Calaulator\bin\Debug\Calaulator.exe
+C:\Users\smily\source\repos\Calaulator\Calaulator\bin\Debug\Calaulator.pdb
+C:\Users\smily\source\repos\Calaulator\Calaulator\obj\Debug\Calaulator.csproj.AssemblyReference.cache
+C:\Users\smily\source\repos\Calaulator\Calaulator\obj\Debug\Calaulator.Properties.Resources.resources
+C:\Users\smily\source\repos\Calaulator\Calaulator\obj\Debug\Calaulator.csproj.GenerateResource.cache
+C:\Users\smily\source\repos\Calaulator\Calaulator\obj\Debug\Calaulator.csproj.CoreCompileInputs.cache
+C:\Users\smily\source\repos\Calaulator\Calaulator\obj\Debug\Calaulator.exe
+C:\Users\smily\source\repos\Calaulator\Calaulator\obj\Debug\Calaulator.pdb
+C:\Users\smily\source\repos\Calaulator\Calaulator\obj\Debug\Calaulator.Kalkulator.resources
