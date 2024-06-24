@@ -1,0 +1,10 @@
+C:\Users\smily\source\repos\MiniGame\MiniGame\bin\Debug\MiniGame.exe.config
+C:\Users\smily\source\repos\MiniGame\MiniGame\bin\Debug\MiniGame.exe
+C:\Users\smily\source\repos\MiniGame\MiniGame\bin\Debug\MiniGame.pdb
+C:\Users\smily\source\repos\MiniGame\MiniGame\obj\Debug\MiniGame.csproj.AssemblyReference.cache
+C:\Users\smily\source\repos\MiniGame\MiniGame\obj\Debug\MiniGame.Properties.Resources.resources
+C:\Users\smily\source\repos\MiniGame\MiniGame\obj\Debug\MiniGame.csproj.GenerateResource.cache
+C:\Users\smily\source\repos\MiniGame\MiniGame\obj\Debug\MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\smily\source\repos\MiniGame\MiniGame\obj\Debug\MiniGame.exe
+C:\Users\smily\source\repos\MiniGame\MiniGame\obj\Debug\MiniGame.pdb
+C:\Users\smily\source\repos\MiniGame\MiniGame\obj\Debug\MiniGame.MiniGame.resources
